@@ -17,8 +17,7 @@ If you find this code useful for your research, please use the following BibTeX 
 
 ```bibtex
 @article{Ye2022DeFlowSLAM,
-    title={DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM  
-},
+    title={DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM},
     author={Ye, Weicai and Yu, Xinyuan and Lan, Xinyue and Ming, Yuhang and Li, Jinyu and Bao, Hujun and Cui, Zhaopeng and Zhang, Guofeng},
     booktitle={arxiv}, 
     year={2022}
