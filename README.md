@@ -1,5 +1,5 @@
 # DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM
-### [Project Page](https://zju3dv.github.io/deflowslam/) | [Paper](https://arxiv.org/abs/2207.01610)
+### [Project Page](https://zju3dv.github.io/deflowslam/) | [Paper](https://arxiv.org/abs/2207.08794)
 <br/>
 
 > DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM  
